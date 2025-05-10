@@ -21,3 +21,14 @@ A simple and user-friendly Student Management System built using Java. This proj
 
 ## 📂 Project Structure
 
+StudentManagementSystem/
+├── src/
+│ ├── Student.java
+│ ├── StudentManager.java
+│ └── Main.java
+├── database/ (optional - for SQL files)
+├── README.md
+└── LICENSE
+🙋‍♂️ Author
+Shubhrat Chaursiya
+LinkedIn | GitHub
