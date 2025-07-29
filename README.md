@@ -37,6 +37,12 @@ A simple Java-based student management application for handling CRUD operations�
   - Delete student records
 
 ---
+## 🔗 Social
+
+🐙 [GitHub](https://github.com/shubhratchaursiya)  
+💼 [LinkedIn](https://www.linkedin.com/in/shubhrat-chaursiya-819672354/)
+
+---
 
 ## 🗂️ Project Structure
 
